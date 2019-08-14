@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+base_url	src/.vuepress/config.js	/^        base_url: "\/",$/;"	P
+collapsable	src/.vuepress/theme/util.js	/^			collapsable: false,$/;"	P
+config	src/.vuepress/theme/util.js	/^			config: config$/;"	P
+count	docs/.vuepress/config.js	/^				count: 20$/;"	P
+count	src/.vuepress/config.js	/^        count: 20$/;"	P
+currentDateUTC	src/.vuepress/config.js	/^const currentDateUTC = new Date().toUTCString();$/;"	V
+dest	src/.vuepress/config.js	/^  dest: ".\/public",$/;"	P
+docsDir	src/.vuepress/config.js	/^    docsDir: "src",$/;"	P
+editLinkText	src/.vuepress/config.js	/^    editLinkText: "Found a bug? Help me improve this page!",$/;"	P
+editLinks	docs/.vuepress/config.js	/^		editLinks: true,$/;"	P
+editLinks	src/.vuepress/config.js	/^    editLinks: true,$/;"	P
+endingSlashRE	src/.vuepress/theme/util.js	/^export const endingSlashRE = \/\\\/$\/$/;"	E
+ensureEndingSlash	src/.vuepress/theme/util.js	/^function ensureEndingSlash(path) {$/;"	F
+ensureExt	src/.vuepress/theme/util.js	/^export function ensureExt(path) {$/;"	E
+exports	docs/.vuepress/config.js	/^module.exports = {$/;"	P
+exports	src/.vuepress/config.js	/^module.exports = {$/;"	P
+extRE	src/.vuepress/theme/util.js	/^export const extRE = \/\\.(md|html)$\/$/;"	E
+ga	src/.vuepress/config.js	/^        ga: "" \/\/ UA-00000000-0$/;"	P
+getHash	src/.vuepress/theme/util.js	/^export function getHash(path) {$/;"	E
+groupHeaders	src/.vuepress/theme/util.js	/^export function groupHeaders(headers) {$/;"	E
+hashRE	src/.vuepress/theme/util.js	/^export const hashRE = \/#.*$\/$/;"	E
+head	docs/.vuepress/config.js	/^	head: [$/;"	P
+head	src/.vuepress/config.js	/^  head: [$/;"	P
+isActive	src/.vuepress/theme/util.js	/^export function isActive(route, path) {$/;"	E
+isExternal	src/.vuepress/theme/util.js	/^export function isExternal(path) {$/;"	E
+isMailto	src/.vuepress/theme/util.js	/^export function isMailto(path) {$/;"	E
+isTel	src/.vuepress/theme/util.js	/^export function isTel(path) {$/;"	E
+isXml	src/.vuepress/theme/util.js	/^export function isXml(path) {$/;"	E
+logo	src/.vuepress/config.js	/^    logo: "\/vuepress-blog-logo.png",$/;"	P
+nav	docs/.vuepress/config.js	/^		nav: [$/;"	P
+nav	src/.vuepress/config.js	/^    nav: [$/;"	P
+normalize	src/.vuepress/theme/util.js	/^export function normalize(path) {$/;"	E
+outboundRE	src/.vuepress/theme/util.js	/^export const outboundRE = \/^(https?:|mailto:|tel:)\/$/;"	E
+pageSize	src/.vuepress/config.js	/^    pageSize: 5,$/;"	P
+plugins	docs/.vuepress/config.js	/^	plugins: [$/;"	P
+plugins	src/.vuepress/config.js	/^  plugins: [$/;"	P
+repo	src/.vuepress/config.js	/^    repo: "https:\/\/wwww.github.com",$/;"	P
+repoLabel	src/.vuepress/config.js	/^    repoLabel: "Repo",$/;"	P
+resolveHeaders	src/.vuepress/theme/util.js	/^function resolveHeaders(page) {$/;"	F
+resolveItem	src/.vuepress/theme/util.js	/^function resolveItem(item, pages, base, isNested) {$/;"	F
+resolveMatchingConfig	src/.vuepress/theme/util.js	/^export function resolveMatchingConfig(route, config) {$/;"	E
+resolveNavLinkItem	src/.vuepress/theme/util.js	/^export function resolveNavLinkItem(linkItem) {$/;"	E
+resolvePage	src/.vuepress/theme/util.js	/^export function resolvePage(pages, rawPath, base) {$/;"	E
+resolvePath	src/.vuepress/theme/util.js	/^function resolvePath(relative, base, append) {$/;"	F
+resolveSidebarItems	src/.vuepress/theme/util.js	/^export function resolveSidebarItems(page, route, site, localePath) {$/;"	E
+site_url	src/.vuepress/config.js	/^        site_url: "https:\/\/vuepressblog.org",$/;"	P
+startPage	src/.vuepress/config.js	/^    startPage: 0$/;"	P
+themeConfig	docs/.vuepress/config.js	/^	themeConfig: {$/;"	P
+themeConfig	src/.vuepress/config.js	/^  themeConfig: {$/;"	P
+title	src/.vuepress/config.js	/^  title: "My New VuePress Blog",$/;"	P
+xmlRE	src/.vuepress/theme/util.js	/^export const xmlRE = \/(\\.xml)\/$/;"	E
